@@ -1,5 +1,5 @@
 # Team member  / 学号 / github账户
-* 王宇杰 16340229  
+* 王宇杰 16340229  youlitaia
 * 王远明 16340230  wym199807
 * 王云朋 16340231  wangyp33
 ## Usage
